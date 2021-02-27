@@ -1,0 +1,7 @@
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\bin\x64\Debug\HardwareInfor.exe.config
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\bin\x64\Debug\HardwareInfor.exe
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\bin\x64\Debug\HardwareInfor.pdb
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\obj\x64\Debug\HardwareInfor.csprojAssemblyReference.cache
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\obj\x64\Debug\HardwareInfor.csproj.CoreCompileInputs.cache
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\obj\x64\Debug\HardwareInfor.exe
+F:\SourceCode-GitHub\HardwareInfor\HardwareInfor\HardwareInfor\obj\x64\Debug\HardwareInfor.pdb
